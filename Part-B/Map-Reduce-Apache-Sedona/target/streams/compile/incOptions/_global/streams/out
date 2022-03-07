@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\jpatel56\Desktop\Spring_22\CSE512\Assignment-2-1\Assignment-2\Part-B\Map-Reduce-Apache-Sedona\target\scala-2.11\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMapReduce$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMapReduce$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Entrance$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMapReduce.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMapReduce$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMapReduce$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Entrance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkMapReduce$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Entrance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\jpatel56\Desktop\Spring_22\CSE512\Assignment-2-1\Assignment-2\Part-B\Map-Reduce-Apache-Sedona\target\scala-2.11\classes.bak[0m
